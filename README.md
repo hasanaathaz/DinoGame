@@ -2,7 +2,7 @@
 To use computer vision to detect when an obstacle emerges and automatically hit the space button
 Credit to: Murtaza's Workshop
 
-See it in action here: https://youtu.be/4qS6YgwHb2c
+See it in action here: https://www.youtube.com/watch?v=xjEpn1lhUJo
 
 Here's the link to play the original game: https://poki.com/en/g/dinosaur-game
 
