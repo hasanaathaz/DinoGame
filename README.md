@@ -2,6 +2,10 @@
 To use computer vision to detect when an obstacle emerges and automatically hit the space button
 Credit to: Murtaza's Workshop
 
+See it in action here: https://youtu.be/4qS6YgwHb2c
+
+Here's the link to play the original game: https://poki.com/en/g/dinosaur-game
+
 # Automatic Game Playing Script with Obstacle Detection
 
 This Python script automates gameplay by identifying obstacles in a specific region of the screen and triggering jumps accordingly. It utilizes OpenCV for image processing, cvzone for contour detection, mss for screen capture, and pyautogui for simulating keyboard presses.
